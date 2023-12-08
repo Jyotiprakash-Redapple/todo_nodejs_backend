@@ -1,5 +1,5 @@
 //@ts-ignore
-const config = require("dotenv").config({ debug: process.env.DEBUG });
+const config = require("dotenv").config();
 if (config.error) {
 	console.log(config.error);
 	throw config.error;
