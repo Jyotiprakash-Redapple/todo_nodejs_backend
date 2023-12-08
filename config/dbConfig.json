@@ -1,0 +1,23 @@
+{
+	"dev": {
+		"userName": "chiku",
+		"password": "lizachiku",
+		"dataBaseName": "LocalTodo",
+		"host": "127.0.0.1",
+		"dialect": "mongo"
+	},
+	"stg": {
+		"userName": "chiku",
+		"password": "lizachiku",
+		"dataBaseName": "LocalTodo",
+		"host": "127.0.0.1",
+		"dialect": "mongo"
+	},
+	"prod": {
+		"userName": "chiku",
+		"password": "lizachiku",
+		"dataBaseName": "LocalTodo",
+		"host": "127.0.0.1",
+		"dialect": "mongo"
+	}
+}
