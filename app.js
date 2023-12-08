@@ -1,9 +1,9 @@
 //@ts-ignore
-const config = require("dotenv").config();
-if (config.error) {
-	console.log(config.error);
-	throw config.error;
-}
+// const config = require("dotenv").config();
+// if (config.error) {
+// 	console.log(config.error);
+// 	throw config.error;
+// }
 
 const express = require("express");
 const fs = require("fs");
